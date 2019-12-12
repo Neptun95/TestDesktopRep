@@ -7,4 +7,6 @@ if(mysqli_connect_errno()->$conn){
     echo "Impossible to connect! ";
 }
 
+//1. Comment
+
 ?>
